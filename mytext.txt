@@ -1,3 +1,0 @@
-Hallo world 
-this is a testing of how the git command line works in the my computer, and i am playing around the files.
-done 07/29/2015
